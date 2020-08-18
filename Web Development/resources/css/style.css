@@ -1,0 +1,144 @@
+body {
+  background-image:url('/home/zayck/Documents/Web Development/resources/img/wallpaperflare.com_wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: white;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5rem;
+  color: #844D36;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #844D36;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+p {
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted grey;
+  width: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.sub-heading {
+  font-weight: normal;
+  margin: 10px auto 10px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 50px 0;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color:#844D36;
+  padding: 50px 0 20px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.img-pp {
+  width: 25%;
+}
+
+.skill-row {
+  line-height: 1.5;
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.img-left {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-right {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-msg {
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background-color: #844D36;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.footer-link {
+  padding: 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 14px;
+}
+.contact-me{
+  width: 50%;
+  margin: auto;
+  margin-top: 110px;
+}
+.this{
+  margin-top: 200px;
+}
